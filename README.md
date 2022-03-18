@@ -55,6 +55,3 @@ The json contains details regarding the users such as firstname, lastname, gende
 Emptied the s3 bucket after testing.
 
 
-**REFERENCES**
-
-> Udacity Knowledge hub.
